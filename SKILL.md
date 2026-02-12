@@ -1,12 +1,10 @@
 ---
 name: street-level-observation
-description: Diagnose urban problems by walking neighborhoods and watching what actually
-  happens, rather than relying on plans, maps, or statistics. Based on Jane Jacobs's
-  methodology of understanding cities th...
+description: Diagnose urban problems by walking neighborhoods and watching what actually happens, rather than relying on plans, maps, or statistics. Based on Jane Jacobs's methodology of understanding cities th...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - street-level-observation
 - writing
